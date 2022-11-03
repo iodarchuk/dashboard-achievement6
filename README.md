@@ -7,9 +7,9 @@
 
 ### Libraries
 
-pandas
-numpy
-os
-matplotlib.pyplot
-seaborn
-scipy
+- pandas
+- numpy
+- os
+- matplotlib.pyplot
+- seaborn
+- scipy
