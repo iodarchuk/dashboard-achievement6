@@ -1,14 +1,11 @@
 # Boat Sales Dashboard
 
-## Data
-The dataset comprises information on the following parameters
+### Data
 
-orders
-products
-departments
-Tools
+- Boat Sales
+- Federal Reserve Economic Data
 
-## For this project, the following python libraries were used:
+### Libraries
 
 pandas
 numpy
